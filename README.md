@@ -16,7 +16,7 @@
 My name is Behfar and I"m a Network & security advisor, Over 12 years of experience in designing, deploying, migrating and supporting critical enterprise networks.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&theme=onedark)](https://github.com/behfarkhosravi)
+[![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&theme=radical)](https://github.com/behfarkhosravi)
 
  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=behfarkhosravi&theme=radical" alt="behfarkhosravi" /></p>
 
