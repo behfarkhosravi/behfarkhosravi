@@ -19,9 +19,9 @@ My name is Behfar and I"m a Network & security advisor, Over 12 years of experie
 [![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=behfarkhosravi&theme=algolia" alt="behfarkhosravi" /></p>
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=behfarkhosravi&theme=algolia&hide_border=true" alt="behfarkhosravi" /></p>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=behfarkhosravi&theme=algolia" alt="behfarkhosravi" /></p>
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=behfarkhosravi&theme=algolia&hide_border=true" alt="behfarkhosravi" /></p>
 
 
 [![Behfar github activity graph](https://activity-graph.herokuapp.com/graph?username=behfarkhosravi&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
