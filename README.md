@@ -10,19 +10,6 @@
 
 My name is Behfar and I"m a Network & security advisor, Over 12 years of experience in designing, deploying, migrating and supporting critical enterprise networks.
 
-<div align="center">
-
-| Proficient to work with | Good knowledge of        | Familiar with       | Love to learn
-|-------------------------|--------------------------|---------------------|---------------------------
-| Cisco Products          | MikroTik                 | Python              | Blockchin
-| Security Appliances     | HUAWEI routing/switching | JavaScript          | AR
-|                         | Palo Alto Networks       | C++                 | ML
-|                         | Fortinet Products        | Go                  | SDN
-|                         | Juniper Firewalls        | React               | 
-|                         | Docker and k8s           |                     |
-
-</div>
-
 
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
 
