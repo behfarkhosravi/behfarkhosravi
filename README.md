@@ -16,11 +16,12 @@
 My name is Behfar and I"m a Network & security advisor, Over 12 years of experience in designing, deploying, migrating and supporting critical enterprise networks.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&theme=radical)](https://github.com/behfarkhosravi)
+[![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=behfarkhosravi&theme=radical" alt="behfarkhosravi" /></p>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=behfarkhosravi&theme=radical" alt="behfarkhosravi" /></p>
+ <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=behfarkhosravi&theme=algolia" alt="behfarkhosravi" /></p>
+
+ <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=behfarkhosravi&theme=algolia" alt="behfarkhosravi" /></p>
 
  
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=behfarkhosravi&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
