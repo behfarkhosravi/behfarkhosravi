@@ -16,12 +16,16 @@
 My name is Behfar and I"m a Network & security advisor, Over 12 years of experience in designing, deploying, migrating and supporting critical enterprise networks.
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&rank=-C,-B&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
- <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=behfarkhosravi&theme=algolia&hide_border=true" alt="behfarkhosravi" /></p>
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=behfarkhosravi&theme=algolia&hide_border=true" alt="behfarkhosravi" />
+</div>
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=behfarkhosravi&theme=algolia&hide_border=true" alt="behfarkhosravi" /></p>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=behfarkhosravi&theme=algolia&hide_border=true&count_private=true" alt="behfarkhosravi" />
+</div>
 
 
 [![Behfar github activity graph](https://activity-graph.herokuapp.com/graph?username=behfarkhosravi&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
