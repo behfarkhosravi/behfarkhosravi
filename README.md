@@ -28,6 +28,6 @@ My name is Behfar and I"m a Network & security advisor, Over 12 years of experie
 </div>
 
 
-[![Behfar github activity graph](https://activity-graph.herokuapp.com/graph?username=behfarkhosravi&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Behfar github activity graph](https://activity-graph.herokuapp.com/graph?username=behfarkhosravi&theme=chartreuse-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
  
