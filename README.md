@@ -17,14 +17,14 @@ My name is Behfar and I"m a Network & security advisor, Over 12 years of experie
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&rank=-C,-B&no-bg=true&no-frame=true&theme=algolia&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&rank=-C,-B&no-bg=true&no-frame=true&theme=matrix&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 <div align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=behfarkhosravi&theme=algolia&hide_border=true" alt="behfarkhosravi" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=behfarkhosravi&theme=blue-green&hide_border=true" alt="behfarkhosravi" />
 </div>
 
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=behfarkhosravi&theme=algolia&hide_border=true&count_private=true" alt="behfarkhosravi" />
+ <img src="https://github-readme-stats.vercel.app/api?username=behfarkhosravi&theme=blue-green&hide_border=true&count_private=true" alt="behfarkhosravi" />
 </div>
 
 
