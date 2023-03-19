@@ -18,7 +18,7 @@
 > My name is Behfar and I"m a Network & security advisor, Over 12 years of experience in designing, deploying, migrating and supporting critical enterprise networks.
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=behfarkhosravi&rank=-C,-B&no-bg=true&no-frame=true&theme=matrix&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
-[![Behfarkhosravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=behfarkhosravi&show_icons=true&theme=dark&count_private=true)
+![Behfarkhosravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=behfarkhosravi&show_icons=true&theme=dark&count_private=true)
 
 
 [![Behfarkhosravi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=behfarkhosravi&theme=github-compact)](https://github.com/behfarkhosravi/github-readme-activity-graph)
