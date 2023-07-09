@@ -15,6 +15,4 @@
 ![Behfarkhosravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=behfarkhosravi&show_icons=true&theme=dark&count_private=true)
 
 
-[![Behfarkhosravi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=behfarkhosravi&theme=github-compact)](https://github.com/behfarkhosravi/github-readme-activity-graph)
-
  
